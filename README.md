@@ -1,2 +1,2 @@
 # seaborn
-Tutorials
+seaborn tutorials for data analysis and data science .
